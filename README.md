@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @enekodr
+- 👀 I’m interested in sports, guitar playing and videogames (classic!)
+- 🌱 I’m currently learning CI/CD
+- 💞️ I’m looking to collaborate on any project
+- 📫 How to reach me at https://enekodiaz.es
