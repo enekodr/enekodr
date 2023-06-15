@@ -1,6 +1,6 @@
-# Passionate. Developer.
+# Welcome!
 
-[![MasterHead](https://user-images.githubusercontent.com/25287536/157782053-5229dc15-3d69-49b7-8e22-10cc1ec97d0c.png)](https://github.com/enekodr)
+![github-background](https://github.com/enekodr/enekodr/assets/25287536/357a32d1-8b29-4f18-a496-38adcf0b5b90)
 
 <div>
   <img src="https://img.shields.io/badge/apple-developer-blue"/>
