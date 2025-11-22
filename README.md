@@ -15,7 +15,6 @@
 - 👀 I’m interested in tech, videogames, psychology and dystopian futures
 - 🌱 I’m currently learning how to find true meaning in life
 - 💞️ I’m looking to have fun with chill projects
-- 📫 How to reach me at enekodiaz@icloud.com
 - ⚡ Fun fact **I used to skateboard and lost tons of brain cells**
 
 ### Contact
@@ -24,9 +23,3 @@
 <a href="https://stackoverflow.com/users/9293060" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9293060" height="30" width="40" /></a>
 <a href="https://instagram.com/eneko.diaz.romero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eneko.diaz.romero" height="30" width="40" /></a>
 </p>
-
-### My stats
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=enekodr&show_icons=true&locale=en" alt="enekodr" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enekodr&" alt="enekodr" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=enekodr&show_icons=true&locale=en&layout=compact" alt="enekodr" />
