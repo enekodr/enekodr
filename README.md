@@ -12,10 +12,10 @@
 ---
 
 - 👋 Hi, I’m @enekodr
-- 👀 I’m interested in sports, guitar playing and videogames (classic!)
-- 🌱 I’m currently learning how to manage my time to be as efficient as possible
-- 💞️ I’m looking to collaborate on any project
-- 📫 How to reach me at https://enekodiaz.es
+- 👀 I’m interested in tech, videogames, psychology and dystopian futures
+- 🌱 I’m currently learning how to find true meaning in life
+- 💞️ I’m looking to have fun with chill projects
+- 📫 How to reach me at enekodiaz@icloud.com
 - ⚡ Fun fact **I used to skateboard and lost tons of brain cells**
 
 ### Contact
